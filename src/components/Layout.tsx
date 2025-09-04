@@ -21,11 +21,7 @@ export default function Layout() {
           <div className="flex items-center justify-between h-16">
             <div className="flex items-center">
               <Link to="/">
-<<<<<<< HEAD
                 <span className="text-xl font-bold text-white hover:text-[#B5E61D] transition-colors">Pickleball Playhouse</span>
-=======
-                <span className="text-xl font-bold text-white hover:text-[#B5E61D] transition-colors">High Rise Pickleball</span>
->>>>>>> c8a1cf332913214e07d0fd64bd6025baae83eba3
               </Link>
             </div>
             {/* Mobile menu button */}
@@ -82,11 +78,7 @@ export default function Layout() {
           <div className="grid md:grid-cols-3 gap-8">
             <div>
               <Link to="/">
-<<<<<<< HEAD
                 <img src="dist/pbplogo.png" alt="High Rise Pickleball" className="h-16 mb-6" />
-=======
-                <img src="/logo.png" alt="High Rise Pickleball" className="h-16 mb-6" />
->>>>>>> c8a1cf332913214e07d0fd64bd6025baae83eba3
               </Link>
               <p className="text-white/80">
                 Denver's premier destination for pickleball enthusiasts of all skill levels.
@@ -114,11 +106,7 @@ export default function Layout() {
             </div>
           </div>
           <div className="border-t border-white/20 mt-8 pt-8 text-center">
-<<<<<<< HEAD
             <p>&copy; 2025 Pickleball Playhouse. All rights reserved.</p>
-=======
-            <p>&copy; 2024 High Rise Pickleball Event Center. All rights reserved.</p>
->>>>>>> c8a1cf332913214e07d0fd64bd6025baae83eba3
           </div>
         </div>
       </footer>
