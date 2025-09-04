@@ -26,11 +26,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-bold text-[#0076BE]">Email</h3>
-<<<<<<< HEAD
                     <p>info@pickleballplayhouse.com</p>
-=======
-                    <p>info@highrisepickleball.com</p>
->>>>>>> c8a1cf332913214e07d0fd64bd6025baae83eba3
                   </div>
                 </div>
                 <div className="flex items-center gap-4">
@@ -140,18 +136,16 @@ export default function Contact() {
                 </div>
                 <div>
                   <label className="block text-gray-700 font-medium mb-2">Inquiry Type *</label>
-                  <select
-                    required
-                    className="w-full p-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-[#0076BE]"
-                  >
-                    <option value="">Please select...</option>
-                    <option value="general">General Inquiry</option>
-                    <option>Corporate Event</option>
-                    <option>Private Party</option>
-                    <option>Training Program</option>
-                    <option>Pro Shop</option>
-                    <option>Membership</option>
-                  </select>
+                  <select required className="w-full p-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-[#0076BE]">
+  <option value="">Please select...</option>
+  <option value="general">General Inquiry</option>
+  <option value="corporate">Corporate Event</option>
+  <option value="private">Private Party</option>
+  <option value="training">Training Program</option>
+  <option value="shop">Pro Shop</option>
+  <option value="membership">Membership</option>
+</select>
+
                 </div>
                 <div>
                   <label className="block text-gray-700 font-medium mb-2">Message</label>
