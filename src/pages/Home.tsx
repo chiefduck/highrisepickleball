@@ -66,11 +66,7 @@ export default function Home() {
           <div className="absolute inset-0 bg-gradient-to-r from-[#0076BE]/95 to-[#0076BE]/80 backdrop-blur-sm"></div>
         </div>
         <div className="relative max-w-7xl mx-auto py-32 px-4 sm:py-40 sm:px-6 lg:px-8">
-<<<<<<< HEAD
           <img src="dist/pbplogo.png" alt="Pickleball Play House" className="w-48 md:w-64 mb-8" />
-=======
-          <img src="/logo.png" alt="High Rise Pickleball" className="w-48 md:w-64 mb-8" />
->>>>>>> c8a1cf332913214e07d0fd64bd6025baae83eba3
           <h1 className="text-4xl md:text-7xl font-bold text-white mb-6 leading-tight">
             Elevate Your Pickleball Experience
           </h1>
