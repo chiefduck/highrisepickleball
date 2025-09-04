@@ -26,7 +26,11 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-bold text-[#0076BE]">Email</h3>
+<<<<<<< HEAD
                     <p>info@pickleballplayhouse.com</p>
+=======
+                    <p>info@highrisepickleball.com</p>
+>>>>>>> c8a1cf332913214e07d0fd64bd6025baae83eba3
                   </div>
                 </div>
                 <div className="flex items-center gap-4">
