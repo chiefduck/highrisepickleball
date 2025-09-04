@@ -78,7 +78,7 @@ export default function Layout() {
           <div className="grid md:grid-cols-3 gap-8">
             <div>
               <Link to="/">
-                <img src="dist/pbplogo.png" alt="High Rise Pickleball" className="h-16 mb-6" />
+                <img src="/pbplogo.png" alt="High Rise Pickleball" className="h-16 mb-6" />
               </Link>
               <p className="text-white/80">
                 Denver's premier destination for pickleball enthusiasts of all skill levels.
